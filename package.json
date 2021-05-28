@@ -1,0 +1,24 @@
+{
+  "name": "node_mysql_api",
+  "version": "1.0.0",
+  "description": "belajar node express mysql api dari medium kiddyzyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZahroNurrobbyAshari/me_nodemysql_api.git"
+  },
+  "author": "Zahro Nurrobby Ashari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZahroNurrobbyAshari/me_nodemysql_api/issues"
+  },
+  "homepage": "https://github.com/ZahroNurrobbyAshari/me_nodemysql_api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
